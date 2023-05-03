@@ -1,0 +1,10 @@
+{application,kube_appl,
+             [{description,"An OTP application"},
+              {vsn,"0.1.0"},
+              {registered,[]},
+              {mod,{kube_appl_app,[]}},
+              {applications,[kernel,stdlib]},
+              {env,[]},
+              {modules,[kube_appl,kube_appl_app,kube_appl_sup]},
+              {licenses,["Apache-2.0"]},
+              {links,[]}]}.
