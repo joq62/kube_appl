@@ -4,7 +4,7 @@
   0},
  {<<"kube_service">>,
   {git,"https://github.com/joq62/kube_service.git",
-       {ref,"30409baf547baa445aeafd4ad426100f24df2f32"}},
+       {ref,"9f4d8958926bb31322250249b6b84d746fcc56df"}},
   0},
  {<<"log_service">>,
   {git,"https://github.com/joq62/log_service.git",
